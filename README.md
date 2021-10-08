@@ -1,6 +1,4 @@
-# YouTube Challenge - C++
-
-The C++ YouTube Challenge uses C++ 11, CMake and [GTest](https://google.github.io/googletest/).
+# YouTube Command Line - C++
 
 NOTE: **Please do not edit videos.txt as it will cause tests to break. There is no need to modify this file to complete this challenge.**
 
